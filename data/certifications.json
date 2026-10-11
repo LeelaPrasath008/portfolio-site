@@ -1,0 +1,107 @@
+[
+ {
+  "id": "aws-cloud-quest",
+  "title": "AWS Cloud Quest: Cloud Practitioner",
+  "issuer": "AWS"
+ },
+ {
+  "id": "google_cloud_gen_ai_apaac",
+  "title": "Google Cloud Gen AI Academy APAC",
+  "issuer": "Google Cloud"
+ },
+ {
+  "id": "agentic_ai_futureagents",
+  "title": "Agentic AI Program",
+  "issuer": "FutureAgents"
+ },
+ {
+  "id": "claude_ai_fluency",
+  "title": "Claude AI Fluency",
+  "issuer": "Course"
+ },
+ {
+  "id": "art_of_prompting",
+  "title": "Mastering the Art of Prompting",
+  "issuer": "Course"
+ },
+ {
+  "id": "netcom_ai_ml",
+  "title": "AI & Machine Learning",
+  "issuer": "NETCOM Learning"
+ },
+ {
+  "id": "netcom_data_engineering",
+  "title": "Data Engineering",
+  "issuer": "NETCOM Learning"
+ },
+ {
+  "id": "infosys_data_science",
+  "title": "Data Science",
+  "issuer": "Infosys Springboard"
+ },
+ {
+  "id": "infosys_software_engineering_agile",
+  "title": "Software Engineering & Agile",
+  "issuer": "Infosys Springboard"
+ },
+ {
+  "id": "data_analytics_novitech",
+  "title": "Data Analytics",
+  "issuer": "Novitech"
+ },
+ {
+  "id": "tableau_simplilearn",
+  "title": "Tableau",
+  "issuer": "Simplilearn"
+ },
+ {
+  "id": "ibm_skills_build",
+  "title": "IBM SkillsBuild",
+  "issuer": "IBM"
+ },
+ {
+  "id": "elevance_fsd",
+  "title": "Full Stack Development",
+  "issuer": "ElevanceSkills"
+ },
+ {
+  "id": "cpp-college-students",
+  "title": "C++ Programming for College Students",
+  "issuer": "Course"
+ },
+ {
+  "id": "c_plus_plus_udemy",
+  "title": "C++ Programming",
+  "issuer": "Udemy"
+ },
+ {
+  "id": "skill_india_software_test_engineer",
+  "title": "Software Test Engineer",
+  "issuer": "Skill India"
+ },
+ {
+  "id": "deloitte_technology_js",
+  "title": "Technology Job Simulation",
+  "issuer": "Deloitte"
+ },
+ {
+  "id": "deloitte_data_analytics_job_simulation",
+  "title": "Data Analytics Job Simulation",
+  "issuer": "Deloitte"
+ },
+ {
+  "id": "bcgx_data_for_decision_js",
+  "title": "Data for Decision-Making Job Simulation",
+  "issuer": "BCG X"
+ },
+ {
+  "id": "tata_genai_js",
+  "title": "GenAI Job Simulation",
+  "issuer": "Tata"
+ },
+ {
+  "id": "vista_ai_in_action_js",
+  "title": "AI in Action Job Simulation",
+  "issuer": "Vista"
+ }
+]

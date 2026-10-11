@@ -1,0 +1,6 @@
+[
+{"id":"elevanceskills","role":"Full Stack Web Development Intern","company":"ElevanceSkills","period":"Aug 2026 – Sep 2026","points":["Built a BookMyShow-style web application with Python Django.","Worked on frontend, backend, database integration, user authentication and deployment."]},
+{"id":"upskill-campus","role":"Core Java Intern","company":"upSkill Campus (AICTE Internship Program)","period":"Aug 2026 – Sep 2026","points":["Practised Core Java, OOP, exception handling and file handling.","Built a Banking Information System with account management, deposits, withdrawals and balance inquiry."]},
+{"id":"emertxe","role":"MERN Stack Development Intern","company":"Emertxe Information Technologies","period":"Aug 2026 – Sep 2026","points":["Developed HomelyHub, a full-stack property booking platform.","Built REST APIs with Node.js and Express.js, with MongoDB storage.","Implemented authentication and authorization; designed responsive React.js interfaces."]},
+{"id":"yuva-henry-harvin","role":"Frontend Developer Intern","company":"Yuva Intern by Henry Harvin","period":"Jul 2026 – Aug 2026","points":["Built a fully responsive site using CSS Grid, fluid typography and media queries."]}
+]

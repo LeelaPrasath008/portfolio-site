@@ -1,0 +1,8 @@
+[
+{"id":"agentsphere","title":"AgentSphere","desc":"AI multi-agent collaboration platform for software development, built with Spring Boot, MySQL and Gemini AI.","tech":["Spring Boot","MySQL","Gemini"],"github":"https://github.com/LeelaPrasath008","demo":""},
+{"id":"careerforge-ai","title":"CareerForge AI","desc":"AI-powered career guidance platform.","tech":["AI"],"github":"https://github.com/LeelaPrasath008","demo":""},
+{"id":"cardio-rag","title":"Cardio RAG Assistant","desc":"Healthcare chatbot using retrieval-augmented generation with BioMistral and PubMedBERT.","tech":["RAG","BioMistral","PubMedBERT"],"github":"https://github.com/LeelaPrasath008","demo":""},
+{"id":"homelyhub","title":"HomelyHub","desc":"Full-stack property booking platform with REST APIs, authentication and a responsive React interface.","tech":["MongoDB","Express","React","Node.js"],"github":"https://github.com/LeelaPrasath008","demo":""},
+{"id":"banking-information-system","title":"Banking Information System","desc":"Java application with account management, deposits, withdrawals, balance inquiry and file storage.","tech":["Java","OOP","File Handling"],"github":"https://github.com/LeelaPrasath008","demo":""},
+{"id":"cinema-ticket-booking","title":"Cinema Ticket Booking System","desc":"C++ application for movie ticket booking and seat management.","tech":["C++"],"github":"https://github.com/LeelaPrasath008","demo":""}
+]
